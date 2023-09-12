@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "0aa00a58665630c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "98c77b2fd712402d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4d49652d4c31ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown/Markdown Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aac0d49085d70eea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ca1d4b9561c29f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce154d723cfbef7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6959c2a80de7b2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65eb3a594a43f81f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbf88883ec767049",
+    "type": "split",
+    "children": [
+      {
+        "id": "a732cbed15ebefd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "547a281acec6bd9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Markdown/Markdown Syntax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1634fd6930576682",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Markdown/Markdown Syntax.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afccdcb20fd6ad79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9665b76fb88f4e76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Markdown/Markdown Syntax.md"
+              }
+            }
+          },
+          {
+            "id": "5e6b02e13b9446c6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6ce154d723cfbef7",
+  "lastOpenFiles": [
+    "Markdown/Markdown Syntax.md",
+    "Course Outline - Programming.md",
+    "Markdown",
+    "Course Outline - Programming.pdf",
+    "sdfsdfsdfsdf.md"
+  ]
+}
