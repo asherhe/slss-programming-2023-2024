@@ -1,9 +1,10 @@
 ---
 aliases: 
 tags:
+  - notes
   - markdown 
 date created: 2023/09/08 08:45:29 -07:00
-date modified: 2023/09/11 09:18:47 -07:00
+date modified: 2023/09/13 14:32:37 -07:00
 ---
 
 # Headings
