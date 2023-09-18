@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eebd2c8763cbff3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown/Markdown Syntax.md",
+                "file": "Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown/Markdown Syntax.md",
+                "file": "Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown/Markdown Syntax.md"
+                "file": "Natural Language Processing.md"
               }
             }
           },
@@ -165,9 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e4d49652d4c31ca",
+  "active": "eebd2c8763cbff3b",
   "lastOpenFiles": [
     "Markdown/Markdown Syntax.md",
+    "Natural Language Processing.md",
     "Course Outline - Programming.md",
     "Markdown",
     "Course Outline - Programming.pdf",
