@@ -3,9 +3,19 @@ aliases:
 tags:
   - notes
   - natural-language
-date modified: 2023/09/18 08:34:35 -07:00
+date modified: 2023/09/20 13:26:25 -07:00
 date created: 2023/09/18 08:34:08 -07:00
 ---
+
+# Headers
+
+At the top of our Python files, insert the header:
+
+```python
+# <title>
+# author: asher
+# date: <date>
+```
 
 # Output
 
@@ -17,12 +27,36 @@ We use the `print()` function to display output
 print("hello world")
 ```
 
-# Headers
+# Input
 
-At the top of our Python files, insert the header:
+We can grab information from the user using the `input()` function.
+
+When we run it it does two things:
+
+1. it waits for use to type something or nothing
+2. the user presses enter/return to indicate that they are finished
+
+# Variables
+
+Variables allow us to store information for the time that our program is running
 
 ```python
-# <title>
-# author: asher
-# date: <date>
+a = 1
+```
+
+- `a`: variable name
+- `=`: assignment operator
+- `1`: value
+
+# Strings
+
+Represent a collection of characters
+
+## F-strings
+
+If we want to evaluate things inside of a string we can use f-strings:
+
+```python
+a = 99
+print(f"{a} bottles of beer on the wall") # "99 bottles of beer on the wall"
 ```
