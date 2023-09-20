@@ -48,6 +48,9 @@ a = 1
 - `=`: assignment operator
 - `1`: value
 
+> [!warning] Life lesson from Mr. Ubial
+> Variable names should be as descriptive as possible
+
 # Strings
 
 Represent a collection of characters

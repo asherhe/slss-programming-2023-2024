@@ -20,6 +20,25 @@
             }
           },
           {
+            "id": "93f38cf31f8e2078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9fcd9407e87274db",
+        "type": "tabs",
+        "children": [
+          {
             "id": "eebd2c8763cbff3b",
             "type": "leaf",
             "state": {
@@ -31,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language Processing.md"
+                "file": "Design.md"
               }
             }
           },
@@ -180,10 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eebd2c8763cbff3b",
+  "active": "93f38cf31f8e2078",
   "lastOpenFiles": [
-    "Markdown/Markdown Syntax.md",
     "Natural Language Processing.md",
+    "Design.md",
+    "Markdown/Markdown Syntax.md",
     "Course Outline - Programming.md",
     "Markdown",
     "Course Outline - Programming.pdf",
