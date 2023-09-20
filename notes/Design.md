@@ -13,9 +13,9 @@ In this class, before we start ANY programming, we will write our steps in Engli
 
 # 2. Translate our Algorithm from English to Python
 
-Yes
+So that the program is a proper Python program.
 
-## 3. Test our Python Algorithm
+# 3. Test our Python Algorithm
 
 - Check if it works out syntactically (check to see if it breaks)
 - Check if it works out semantically (check if our algorithm actually solves the problem)
