@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design.md",
+                "file": "Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design.md",
+                "file": "Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design.md"
+                "file": "Natural Language Processing.md"
               }
             }
           },
@@ -198,10 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93f38cf31f8e2078",
+  "active": "eebd2c8763cbff3b",
   "lastOpenFiles": [
-    "Natural Language Processing.md",
     "Design.md",
+    "Natural Language Processing.md",
     "Markdown/Markdown Syntax.md",
     "Course Outline - Programming.md",
     "Markdown",
