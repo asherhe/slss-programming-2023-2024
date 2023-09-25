@@ -3,19 +3,12 @@ aliases:
 tags:
   - notes
   - natural-language
-date modified: 2023/09/20 13:26:25 -07:00
+  - python
+date modified: 2023/09/25 09:45:20 -07:00
 date created: 2023/09/18 08:34:08 -07:00
 ---
 
-# Headers
-
-At the top of our Python files, insert the header:
-
-```python
-# <title>
-# author: asher
-# date: <date>
-```
+![[Header]]
 
 # Output
 
@@ -51,15 +44,8 @@ a = 1
 > [!warning] Life lesson from Mr. Ubial
 > Variable names should be as descriptive as possible
 
-# Strings
+![[Strings]]
 
-Represent a collection of characters
+![[Lists]]
 
-## F-strings
-
-If we want to evaluate things inside of a string we can use f-strings:
-
-```python
-a = 99
-print(f"{a} bottles of beer on the wall") # "99 bottles of beer on the wall"
-```
+![[Modules]]

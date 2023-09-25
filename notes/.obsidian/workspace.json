@@ -30,21 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cc82205a280bb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f68331b20f2d712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Header.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "9fcd9407e87274db",
+        "id": "b2c75ebb7e1c8b4e",
         "type": "tabs",
         "children": [
+          {
+            "id": "b93a2acf55cd776a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "eebd2c8763cbff3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c425b74138ed392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural Language Processing.md",
+                "file": "Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural Language Processing.md"
+                "file": "Modules.md"
               }
             }
           },
@@ -198,10 +246,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eebd2c8763cbff3b",
+  "active": "b93a2acf55cd776a",
   "lastOpenFiles": [
-    "Design.md",
+    "Modules.md",
     "Natural Language Processing.md",
+    "Header.md",
+    "Lists.md",
+    "Strings.md",
+    "Design.md",
     "Markdown/Markdown Syntax.md",
     "Course Outline - Programming.md",
     "Markdown",
