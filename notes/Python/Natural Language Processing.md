@@ -4,7 +4,7 @@ tags:
   - notes
   - natural-language
   - python
-date modified: 2023/09/25 09:45:20 -07:00
+date modified: 2023/09/27 13:21:37 -07:00
 date created: 2023/09/18 08:34:08 -07:00
 ---
 
@@ -49,3 +49,7 @@ a = 1
 ![[Lists]]
 
 ![[Modules]]
+
+![[Boolean]]
+
+![[Conditionals]]
