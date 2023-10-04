@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Markdown Syntax.md",
+                "file": "Python/Errors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af65661752c4af75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design.md",
+                "file": "Python/Iteration.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "cf860a57483321f3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
               }
             }
           },
@@ -53,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design.md",
+                "file": "Python/Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design.md",
+                "file": "Python/Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design.md"
+                "file": "Python/Errors.md"
               }
             }
           },
@@ -201,18 +202,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf860a57483321f3",
+  "active": "8e4d49652d4c31ca",
   "lastOpenFiles": [
+    "Python/Strings.md",
+    "Python/Errors.md",
+    "Python/Header.md",
+    "Python/Iteration.md",
+    "Python/Lists.md",
+    "Markdown/Markdown Syntax.md",
+    "Design.md",
     "Python/Natural Language Processing.md",
     "Python",
     "Python/Boolean.md",
     "Python/Conditionals.md",
-    "Python/Strings.md",
-    "Python/Lists.md",
     "Python/Modules.md",
-    "Python/Header.md",
-    "Design.md",
-    "Markdown/Markdown Syntax.md",
     "Course Outline - Programming.md",
     "Markdown",
     "Course Outline - Programming.pdf",
