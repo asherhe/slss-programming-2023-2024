@@ -1,10 +1,24 @@
-Booleans are a  [[Type]] of data that is either `True` or `False`
+---
+aliases:
+  - boolean
+  - booleans
+  - bool
+  - bools
+tags: 
+  - notes
+  - python
+date created: 2023/09/27 13:20:33 -07:00
+date modified: 2023/10/06 08:40:06 -07:00
+---
+
+Booleans are a [[Type]] of data that is either `True` or `False`
 
 Booleans and [[Conditionals]] work hand-in-hand
 
 They are named after the English mathematician and philosopher, [George Boole](https://en.wikipedia.org/wiki/George_Boole)
 
 Example:
+
 ```python
 raining = True
 sunny = False

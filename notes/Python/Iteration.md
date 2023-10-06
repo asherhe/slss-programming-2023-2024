@@ -1,10 +1,14 @@
 ---
-aliases: 
+aliases:
+  - iteration
+  - loop
+  - loops
+  - for
 tags:
   - notes
   - python
 date created: 2023/10/04 14:19:25 -07:00
-date modified: 2023/10/04 14:21:51 -07:00
+date modified: 2023/10/06 08:46:44 -07:00
 ---
 
 # Iteration

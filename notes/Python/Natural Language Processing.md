@@ -50,6 +50,6 @@ a = 1
 
 ![[Modules]]
 
-![[Boolean]]
+![[Booleans]]
 
 ![[Conditionals]]

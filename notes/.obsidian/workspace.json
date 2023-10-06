@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Errors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af65661752c4af75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Python/Strings.md",
                 "mode": "source",
                 "source": false
@@ -32,24 +20,12 @@
             }
           },
           {
-            "id": "93f38cf31f8e2078",
+            "id": "f432c8810c193e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Iteration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f68331b20f2d712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Header.md",
+                "file": "Python/Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Errors.md",
+                "file": "Python/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Errors.md",
+                "file": "Python/Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Errors.md"
+                "file": "Python/Strings.md"
               }
             }
           },
@@ -204,16 +180,17 @@
   },
   "active": "8e4d49652d4c31ca",
   "lastOpenFiles": [
-    "Python/Strings.md",
     "Python/Errors.md",
+    "Python/Strings.md",
+    "Python/Booleans.md",
     "Python/Header.md",
     "Python/Iteration.md",
     "Python/Lists.md",
+    "Type.md",
     "Markdown/Markdown Syntax.md",
     "Design.md",
     "Python/Natural Language Processing.md",
     "Python",
-    "Python/Boolean.md",
     "Python/Conditionals.md",
     "Python/Modules.md",
     "Course Outline - Programming.md",

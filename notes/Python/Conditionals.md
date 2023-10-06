@@ -16,7 +16,7 @@ else:
 	<block of code>
 ```
 
-**[[Boolean]] expressions** are pieces of Python code that either are a boolean value (`True`, `False`) or they *evaluate* to become a boolean.
+**[[Booleans]] expressions** are pieces of Python code that either are a boolean value (`True`, `False`) or they *evaluate* to become a boolean.
 
 The whole block of code will run if and only if the boolean expression produces `True`.
 

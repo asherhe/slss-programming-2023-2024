@@ -1,10 +1,14 @@
 ---
-aliases: 
+aliases:
+  - list
+  - lists
+  - array
+  - arrays
 tags: 
   - notes
   - python
 date created: 2023/09/25 09:05:37 -07:00
-date modified: 2023/09/25 09:13:34 -07:00
+date modified: 2023/10/06 08:46:31 -07:00
 ---
 
 A list is a collection of items

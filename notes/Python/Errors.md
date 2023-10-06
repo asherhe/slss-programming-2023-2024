@@ -1,10 +1,16 @@
 ---
-aliases: 
+aliases:
+  - error
+  - errors
+  - syntax error
+  - syntax errors
+  - semantic error
+  - semantic errors
 tags: 
   - notes
   - python
 date created: 2023/10/04 14:21:40 -07:00
-date modified: 2023/10/04 14:51:12 -07:00
+date modified: 2023/10/06 08:50:16 -07:00
 ---
 
 # Syntax Errors
