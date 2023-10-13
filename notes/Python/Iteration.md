@@ -80,3 +80,33 @@ for name in names:
 	if name == "Jasmine Soto":
 		print("We found her!")
 ```
+
+## Looping $n$ times
+
+We can iterate/looop for any number of times.
+
+In Python, we do it a strange way:
+
+```python
+for i in range(<number of times>):
+	# do something
+```
+
+e.g.
+
+```python
+# print out "Mr. Ubial is pretty cool" 20 times
+for _ in range(20):
+	print("Mr. Ubial is pretty cool")
+```
+
+Recall that in the other way of looping (`item in list`), `item` points to the current item in the list.
+
+With `range`, `item` shows how many times we have looped so far
+
+For example, we can do something like
+
+```python
+for i in range(5):
+	print(i)
+```
