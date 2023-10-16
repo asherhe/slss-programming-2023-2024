@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e4d49652d4c31ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Iteration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a42d83eed9a92e0a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
             "id": "f432c8810c193e15",
             "type": "leaf",
             "state": {
@@ -41,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Iteration.md",
+                "file": "Python/Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Iteration.md",
+                "file": "Python/Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Iteration.md"
+                "file": "Python/Errors.md"
               }
             }
           },
@@ -189,13 +166,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a42d83eed9a92e0a",
+  "active": "f432c8810c193e15",
   "lastOpenFiles": [
+    "Python/Iteration.md",
     "Python/Strings.md",
     "Python/Natural Language Processing.md",
     "Python/Header.md",
     "Python/Conditionals.md",
-    "Python/Iteration.md",
     "Python/Errors.md",
     "Python/Booleans.md",
     "Python/Lists.md",
