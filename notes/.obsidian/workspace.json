@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Strings.md",
+                "file": "Python/Iteration.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a42d83eed9a92e0a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           },
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Strings.md",
+                "file": "Python/Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Strings.md",
+                "file": "Python/Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Strings.md"
+                "file": "Python/Iteration.md"
               }
             }
           },
@@ -178,13 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e4d49652d4c31ca",
+  "active": "a42d83eed9a92e0a",
   "lastOpenFiles": [
+    "Python/Strings.md",
     "Python/Natural Language Processing.md",
     "Python/Header.md",
     "Python/Conditionals.md",
     "Python/Iteration.md",
-    "Python/Strings.md",
     "Python/Errors.md",
     "Python/Booleans.md",
     "Python/Lists.md",

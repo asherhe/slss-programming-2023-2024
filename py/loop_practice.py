@@ -46,3 +46,19 @@ else:
 # print out "Mr. Ubial is pretty cool" 20 times
 for _ in range(20):
     print("Mr. Ubial is pretty cool")
+
+# count starting at 1
+for i in range(100):
+    print(i + 1)
+
+# we can start somewhere else
+for i in range(100, 0, -1):
+    print(i)
+
+# 1. print all even numbers in 1200 and 1500 inclusive
+for i in range(1200, 1501, 2):
+    print(i)
+
+# 2. print all numbers between -150 and 0 inclusive
+for i in range(-149, 0, 2):
+    print(i)

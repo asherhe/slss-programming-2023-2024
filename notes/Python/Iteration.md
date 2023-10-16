@@ -110,3 +110,29 @@ For example, we can do something like
 for i in range(5):
 	print(i)
 ```
+
+## `range()`
+
+`range()` gives a sequence of numbers starting at 0 by default. By default it also counts up by 1. It stops before the number you provide in input
+
+```python
+range(1000) -> Sequence(0, 1, 2, ..., 99)
+```
+
+`range` also accepts starting points, stopping points, and step differences:
+
+```python
+range(<start>, <stop>, <step>)
+```
+
+**example:**
+
+```python
+range(0, 100) # sequence from 0 to 99
+range(-10, 10) # sequence from -10, -9, ..., 9
+```
+
+# `break`
+
+`break` allows us to stop a loop. Once `break` is reached, no other code afterwards will be executed.
+
