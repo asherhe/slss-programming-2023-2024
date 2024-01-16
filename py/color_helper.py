@@ -17,9 +17,16 @@ def pixel_to_string(pixel: tuple) -> str:
         String representing the colour
     """
     r, g, b = pixel
-
+    if g < 25 and b < 25 and r > 150:
+        return "red"
     if g > 100 and r < 120 and b < 120:
         return "green"
+    if g >= 80 and b < 50 and r < 50:
+        return "jelly bean green"
+    if r > 200 and g < 100 and b < 100:
+        return "ball red"
+    if r < 100 and g < 100 and b > 100:
+        return "blue"
 
 def is_light(pixel: tuple) -> bool:
     """check if average RGB value is at least 128"""
